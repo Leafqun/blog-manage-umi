@@ -1,7 +1,7 @@
 
-cd $PROJ_PATH/blog-mange-umi
+cd $PROJ_PATH/blog-manage-umi
 cnpm install
 
-cp $PROJ_PATH/blog-mange-umi/dist/umi.js $DEPLOY/
-cp $PROJ_PATH/blog-mange-umi/dist/umi.css $DEPLOY/
-cp $PROJ_PATH/blog-mange-umi/dist/index.html $DEPLOY/blog-manage-umi
+cp $PROJ_PATH/blog-manage-umi/dist/umi.js $DEPLOY/
+cp $PROJ_PATH/blog-manage-umi/dist/umi.css $DEPLOY/
+cp $PROJ_PATH/blog-manage-umi/dist/index.html $DEPLOY/blog-manage-umi
