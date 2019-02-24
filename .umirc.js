@@ -9,7 +9,7 @@ export default {
       antd: true,
       dva: true,
       dynamicImport: false,
-      title: 'umi-test',
+      title: 'blog-manage-umi',
       dll: false,
       routes: {
         exclude: [
